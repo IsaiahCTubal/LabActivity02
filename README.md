@@ -1,0 +1,3 @@
+- This is a Laboratory Activity on Modules 2.0 & 3.0.
+- The topics covered in this activity are Basic HTML & Tables.
+- https://github.com/IsaiahCTubal/LabActivity02
